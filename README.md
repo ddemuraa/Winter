@@ -3,7 +3,7 @@
 
 Designed in KiCad 7.0.2
  
-![winter pcb front](https://cdn.discordapp.com/attachments/935012972630265897/1108323467851472906/Screenshot_25.png) ![winter pcb back](https://cdn.discordapp.com/attachments/935012972630265897/1108323468384149534/Screenshot_26_1.png)
+![front](https://cdn.discordapp.com/attachments/1074021372432486440/1108327935171117056/Screenshot_25.png) ![back](https://cdn.discordapp.com/attachments/1074021372432486440/1108327935485694002/Screenshot_26_1.png)
 
 # Features
 - Uses [minipad firmware](https://github.com/minipadKB/minipad-firmware)
