@@ -12,6 +12,7 @@ Designed in KiCad 7.0.2
 - Rapid Trigger with adjustable actuation
 
 # Case
+- STL file for 3D print is available in `3D Case file`
 - Designed in Fusion 360
 - Made into 2 parts
 - 2cm tall
